@@ -5,7 +5,7 @@ import "errors"
 // ErrNotFound represents an object not found error
 var ErrNotFound = errors.New("Object not found")
 
-// InvitePlaceholder represents the placeholder used by members to invite other users
+// InvitePlaceholder represents the placeholder used by members to invite other usersd
 var InvitePlaceholder = "%invite%"
 
 //ErrUserIDRequired is used when OAuth integration returns an empty user ID
